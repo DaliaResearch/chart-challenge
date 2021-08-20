@@ -32,7 +32,7 @@ Please see below for further detailed instructions to guide your submission.
 ## Instructions
 
 1. [Create a new private repository](https://help.github.com/en/articles/creating-a-new-repository)
-   called `location-resolver-challenge`
+   called `chart-challenge`
 1. [Duplicate the source repository](https://help.github.com/en/articles/duplicating-a-repository)
     - *Please do not fork this repo because you cannot restrict access to a forked public repository*.
     - Remember to replace your `{exampleuser}` in the command below
