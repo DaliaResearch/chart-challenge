@@ -37,9 +37,9 @@ Please see below for further detailed instructions to guide your submission.
     - *Please do not fork this repo because you cannot restrict access to a forked public repository*.
     - Remember to replace your `{exampleuser}` in the command below
     ```
-    $ git clone --bare https://github.com/DaliaResearch/chart-challenge.git
+    $ git clone --bare git@github.com:DaliaResearch/chart-challenge.git
     $ cd chart-challenge.git
-    $ git push --mirror https://github.com/{exampleuser}/chart-challenge.git
+    $ git push --mirror git@github.com:{exampleuser}/chart-challenge.git
     $ cd .. 
     $ rm -rf chart-challenge.git
     $ git clone git@github.com:{exampleuser}/chart-challenge.git
