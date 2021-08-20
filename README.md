@@ -39,9 +39,10 @@ Please see below for further detailed instructions to guide your submission.
     ```
     $ git clone --bare https://github.com/DaliaResearch/chart-challenge.git
     $ cd chart-challenge.git
-    $ git push --mirror https://github.com/exampleuser/chart-challenge.git
+    $ git push --mirror https://github.com/{exampleuser}/chart-challenge.git
     $ cd .. 
     $ rm -rf chart-challenge.git
+    $ git clone git@github.com:{exampleuser}/chart-challenge.git
     ```
 
 1. Implement your interactive charting functionality.
